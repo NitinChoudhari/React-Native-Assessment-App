@@ -27,7 +27,7 @@ function SignUpScreen({navigation}) {
 
   const userSignUp = async () =>{
     setLoading(true)
-    if(!email || !password ||!name){
+    if(!email || !password || !name){
       Alert.alert("Please enter required field..")
       return
     }

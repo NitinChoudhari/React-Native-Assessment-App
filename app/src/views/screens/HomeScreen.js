@@ -1,5 +1,8 @@
 import React from 'react'
 import { View, Text } from 'react-native'
+import { TouchableOpacity} from 'react-native-gesture-handler';
+
+import STYLES from '../../styles';
 
  function HomeScreen({navigation}) {
     return (
