@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758979047672",
+    "project_id": "bit-brothers-assessment-app",
+    "storage_bucket": "bit-brothers-assessment-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758979047672:android:f6bcc11f89512939794b0d",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758979047672-arne0uavpku5qa9p9s3konjh46lv0d5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAevELiy1UE5SzNaRO1bTPBu8_wrZuVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758979047672-arne0uavpku5qa9p9s3konjh46lv0d5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
